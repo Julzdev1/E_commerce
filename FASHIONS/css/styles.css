@@ -1,0 +1,46 @@
+h1 {
+  font-family: 'poppins', sans-serif;  
+  font-size: 28px;
+  padding-top: 20px;
+  padding-bottom: 4px;
+  width: 800px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+table {
+    width: 800px;
+    font-style: normal;
+    font-family: 'poppies', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: left;
+    text-transform: initial;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+th caption {
+    text-align: left;
+    background-color: crimson;
+    color: black;
+    font-size: 18px;
+}
+
+table, th,td {
+    border: 3px solid rgb(161, 161, 161);
+    border-collapse: collapse;
+    padding: 35+px;
+
+}
+
+tr:nth-child(odd) {
+    background-color: bisque;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(209, 248, 242);
+}

@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+section {
+    margin: 0 auto;
+}
+.row-container {
+    display: flex;
+    flex-direction: column;
+}
+.row1 {
+    display: flex;
+}
+.row1-child {
+    width: 30%;
+}
+.star {
+    display: flex;
+    flex-direction: column;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+.flex1 {
+    display: flex;
+}

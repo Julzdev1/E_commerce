@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+section {
+    margin: 0 auto;
+}
+.mens-clothing {
+   margin-left: 40px;
+   margin-right: 40px; 
+}
+.div1 h2 {
+    margin: 10px 0px 4px 0px;
+}
+.row-container {
+    display: flex;
+    flex-direction: column;
+}
+.row1 {
+    display: flex;
+}
+.row1-child {
+    width: 35%;
+}
+.row1-child img {
+    width: 384px;
+    height: 280px;
+    background-color: whitesmoke;
+}
+.orange {
+    display: flex;
+    flex-direction: column;
+    background-color: #fa9c1b;
+    width: 384px;
+    height: 104x;
+    padding: 20px;
+    color: white;
+    margin-bottom: 45px;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+.flex1 {
+    display: flex;
+}
+.fa-cart-plus {
+    padding:5px;
+    border-radius: 50%;
+    background-color: rgba(239, 226, 226, 0.804);
+}

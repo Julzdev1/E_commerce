@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: image-set();
+}
+    h1{
+        color: red;
+        text-align: center;
+    }
+    
+    #header1{
+        color: red
+    }
+
+    .pages{
+        color: purple;
+    }
+    h3,h4{
+        text-align: center;
+        border: 2px solid gold
+    }
+    div{
+        border-style: solid;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        border-color: blue;
+        margin: 20px
+    }
+    #div2{
+        border-color: chartreuse;
+        font-size: x-large;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
