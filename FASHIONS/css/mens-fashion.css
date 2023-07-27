@@ -45,6 +45,10 @@ section {
 .flex1 {
     display: flex;
 }
+.items{
+    width: 100%;
+    height: 100%;
+}
 .product-container{
     display: flex;
     align-items: center;
